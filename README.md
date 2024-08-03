@@ -1,1 +1,4 @@
-# gantt
+- Chạy lệnh: composer install
+- Tạo file .env và cấu hình kết nối tới database
+- chạy lệnh:  php artisan migrate
+- chạy lệnh: php artisan cache:clear
